@@ -8,11 +8,11 @@
     background-color: orange ;
 }
 
-.anchor, .some-button:active{
+a, .some-button:active{
     border: 2px solid red;
 } 
 
-.anchor:hover{
+a:hover{
     font-size: 24px;
 }
 
