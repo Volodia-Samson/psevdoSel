@@ -8,7 +8,7 @@
     background-color: orange ;
 }
 
-a, .some-button:active{
+.anchor:active, .some-button:active{
     border: 2px solid red;
 } 
 
